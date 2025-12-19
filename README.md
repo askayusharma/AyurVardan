@@ -1,4 +1,4 @@
-
+View your app in AI Studio: https://ai.studio/apps/drive/11GUIJyfGzNMDUpiyoWsluYKp7tePSaCX
 # AyurVardan
 
 AyurVardan is a comprehensive healthcare application designed to connect patients with Ayurvedic doctors, providing a seamless and holistic approach to wellness. The platform offers distinct, feature-rich interfaces for both patients and doctors, facilitating personalized consultations, diet planning, and health monitoring.
